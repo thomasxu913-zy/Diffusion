@@ -1,6 +1,6 @@
 # SegMaDiff-Drive: Mask-Guided Diffusion for Autonomous Driving
 
-This repository contains the official PyTorch implementation for our FYP project: **End-to-End Autonomous Driving Motion Prediction based on Mamba State-Space and Diffusion Models**. 
+This repository contains the official PyTorch implementation for our project: **End-to-End Autonomous Driving Motion Prediction based on Mamba State-Space and Diffusion Models**. 
 
 We transferred the SegMaDiff architecture from the medical image domain (MRI) to autonomous driving (CARLA Simulator), replacing the standard U-Net bottleneck with the **Mamba Dynamic Former (MDF)** for superior spatial topology reasoning.
 
