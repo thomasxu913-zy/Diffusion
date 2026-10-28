@@ -1,0 +1,22 @@
+# 模型权重
+*.pth
+*.pt
+*.ckpt
+
+# 数据集和日志
+collected_data/
+raw_logs/
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+.conda/
